@@ -10,4 +10,8 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="nextbuttoncolor">#3700B3</color>
     <color name="sharebtncolor">#FF5722</color>
+
+    <color name="colorPrimaryDark">#0000FF</color>
+    <color name="colorAccent">#00FF00</color>
+    <color name="actionMenuTextColor">#0000FF</color>
 </resources>
